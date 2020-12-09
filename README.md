@@ -5,3 +5,5 @@ go to prokerala dashboard and signup and login
 and you will get client_id and client_secretkey
 
 api.prokerala.com
+
+thrn create a aweb app and use localhost url  in that  host url and check all the endpoint for your use
